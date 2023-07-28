@@ -1,8 +1,12 @@
 # ASL-Gesture-Recognition
 
-A Python application that uses deep learning to recognize hand sign of alphabets of the American Sign Language
+A Python application that uses deep learning to recognize hand signs of alphabets of the American Sign Language
 
-https://user-images.githubusercontent.com/105314671/174448108-d3c2c3c8-e809-45b9-a6f2-bd02515de277.mp4
+
+https://github.com/patelb268/ML-Project-Hand-Gesture-Recognization/assets/109325051/585baed1-798a-41a7-85f9-3d92c153a1c3
+
+
+
 
 ## Installation
 
